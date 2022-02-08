@@ -10,7 +10,7 @@ Leishmania Mexicana, Leishmania Infantum ve Leishmania Braziliansis parazitlerin
 ### Bir takým tablolamalarda kullanýlabilecek format
 | Leishmania Mexicana | Leishmania Infantum         | Leishmania Braziliansis     |
 |-------------------  |-----------------------------|-----------------------------|
-|### [Model1](https://github.com/BiyoinformatikProje/Bulasiciligi-Arttiran-Koronavirus-SARS-CoV-2-Mutasyonlarinin-Tahmini/blob/main/Deneysel_veriseti.csv)| 1                           | 1                           |
+|[Model1](https://github.com/Gorkem97/LeishmaniaProteinDataBase/blob/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Braziliensis/1/ENSP00000388107ENSP00000250971_d1d84.result.zip)| 1                           | 1                           |
 | 2                   | 2                           | 2                           |
 
 ## Kullandýðýmýz Dosyalar
