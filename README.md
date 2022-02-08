@@ -1,27 +1,17 @@
 # Leishmania Proteinleri
 #### (Dosyalar açýklamalarýyla beraber aþaðýdadýr)
 ## Özet
-2019 yýlýnda ortaya çýkan ve 223 ülkeyi etkisi altýnda alan COVID-19 pandemisi, günümüze (Eylül 2021) kadar 221 milyon vakaya ve 4.6 milyon ölüme sebep olmuþtur (WHO, 2021). COVID-19 pandemisi, SARS-CoV-2 virüsünün ve bu virüse avantaj saðlayan varyantlarýnýn hýzla yayýlmasý sonucunda bu bulaþýcýlýk seviyesine eriþmiþtir. Bahsi geçen avantaj saðlayýcý varyantlar, özellikle tek amino asit (nokta) bazýnda görülen mutasyonlar yoluyla meydana gelmiþtir. Bu nokta mutasyonlarý, SARS-CoV-2’nin yapýsýnda deðiþikliklere yol açabildiði gibi, virüsün insan konaðýna girmek için ilk basamak olarak kullandýðý ACE2 proteini ile etkileþim verimini de etkileyebilmektedir. ACE2 ile baðlanmayý etkileyen N501Y ve E484K mutasyonlarý yaygýn olarak Ýngiltere’de, Güney Afrika’da ve Brezilya’da gözlemlenmiþ ve tüm dünyada endiþeye sebep olmuþtur. Bu olgudan yola çýkarak tasarladýðýmýz projede, N501Y ve E484K kadar etkin olabilecek ve bulaþýcýlýðýnýn yüksek olmasý nedeniyle tehlike yaratabilecek SARS-CoV-2 mutasyonlarýnýn tahmin edilmesi amaçlandý. Bu hedef doðrultusunda, özgün bir çalýþma olarak, SARS-CoV-2 ve ACE2 baðlanma ve stabilitesine ait deneysel veriler farklý aminoasit özellikleri ile iliþkilendirilip, makine öðrenmesi ve hesaplamalý biyoloji tekniklerine entegre ederek, algoritmalarda yapýlan analizler sonucunda _**N501M, Q414A, N354K, Q498H, N460K, N501W**_ mutasyonlarýnýn, koronavirüsünün yayýlmasýnda tehlikeli olma ihtimallerinin yüksek olduðu belirlendi. Þu anda yaygýn olan varyantlardan birinde görülen 501. pozisyon mutasyonlarýna özellikle dikkat edilmesi gerektiðini, bu pozisyonunun listelerde tekrar etmesi üzerine özellikle önermekteyiz. Özellikle sekanslama sýrasýnda karþýlaþýlmasý durumunda bu mutasyonlarýn yayýlýmýnýn engellenmesi konusunda büyük hassasiyet gösterilmeli ve gerekli saðlýk tedbirleri alýnmalýdýr. Makine öðrenmesi ve hesaplamalý biyoloji ýþýðýnda yapýlan bu araþtýrmanýn sonuçlarý COVID-19 pandemisi konusunda ileriki çalýþmalara alt yapý saðlayacak ve virüsle olan savaþta bilim insanlarýna yol gösterecektir. 
-
+Leishmania son derece ölümcül ve yaygýn bir hastalýktýr ve durdurulmalýdýr.
 ## Amaç
 Leishmania parazitlerinin sahip olduðu önemli proteinlerden bir kaçýnýn yapýsýyla ilgili bir veri tabaný oluþturmak.
 
 ## Sonuçlar
 Leishmania Mexicana, Leishmania Infantum ve Leishmania Braziliansis parazitlerinin sahip olduðu bir takým proteinler hakkýnda yeni modeller ve grafikler çýkardýk.
 ### Bir takým tablolamalarda kullanýlabilecek format
-| Bir takým veriler | Bir takým veriler | Bir takým veriler |Bir takým veriler | Bir takým veriler |
-|----------------|-----------------------------|-----------------------------|------------------------------------------------|------------------------------------------------|
-| 2              | 1                           | 1                           | 445                                            | 445                                            |
-| 3              | 1                           | 1                           | 299                                            | 299                                            |
-| 4              | 3                           | 3                           | 164                                            | 164                                            |
-| 5              | 3                           | 3                           | 164                                            | 164                                            |
-| 6              | 5                           | 3                           | 118                                            | 66                                             |
-| 7              | 5                           | 3                           | 119                                            | 65                                             |
-| 8              | 1                           | 1                           | 57                                             | 57                                             |
-| 9              | 8                           | 8                           | 56                                             | 56                                             |
-| 10             | 9                           | 9                           | 30                                             | 30                                             |
-| 11             | 9                           | 9                           | 30                                             | 30                                             |
-| 12             | 9                           | 9                           | 29                                             | 29                                             |
+| Bir takým veriler | Bir takým veriler        | Bir takým veriler           |Bir takým veriler                               | Bir takým veriler                              |
+|-------------------|-----------------------------|-----------------------------|------------------------------------------------|------------------------------------------------|
+| 1                 | 1                           | 1                           | 1                                              | 1                                              |
+| 2                 | 2                           | 2                           | 299                                            | 1                                              |
 
 ## Kullandýðýmýz Dosyalar
 ### [Deneysel Veriseti](https://github.com/BiyoinformatikProje/Bulasiciligi-Arttiran-Koronavirus-SARS-CoV-2-Mutasyonlarinin-Tahmini/blob/main/Deneysel_veriseti.csv)
