@@ -6,7 +6,7 @@ Leishmania parazitlerinin sahip olduđu önemli proteinlerden birkaçının yap�
 
 ## Sonuçlar
 Leishmania Mexicana, Leishmania Infantum ve Leishmania Braziliansis parazitlerinin sahip olduđu bir takım proteinler hakkında yeni modeller ve grafikler çıkardık.
-### Verilerin Bulunduđu Dosyaları Veren Tablo
+### Verilerin Bulunduğu Dosyaları Veren Tablo
 | Leishmania Mexicana																																						| Leishmania Infantum																																												  | Leishmania Braziliansis																																				       |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ENSP00000288071:ENSP00000288071](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Mexicana/l.mexicana1)|[ENSP00000344818:XP_001463268.1](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Infantum/ENSP00000344818XP_001463268.1) |[ENSP00000388107:ENSP00000250971](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Braziliensis/1)	   |
