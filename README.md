@@ -1,12 +1,12 @@
 # Leishmania Proteinleri
-## Özet
-Leishmania son derece ölümcül ve yaygın bir hastalıktır ve durdurulmalıdır.
-## Amaç
-Leishmania parazitlerinin sahip olduğu önemli proteinlerden bir kaçının yapısıyla ilgili bir veri tabanı oluşturmak.
+## Ã–zet
+Leishmaniasis son derece Ã¶lÃ¼mcÃ¼l ve yaygÄ±n bir hastalÄ±ktÄ±r ve durdurulmalÄ±dÄ±r.
+## AmaÃ§
+Leishmania parazitlerinin sahip olduÄ‘u Ã¶nemli proteinlerden birkaÃ§Ä±nÄ±n yapÄ±sÄ±yla ilgili bir veri tabanÄ± oluÅŸturmak.
 
-## Sonuçlar
-Leishmania Mexicana, Leishmania Infantum ve Leishmania Braziliansis parazitlerinin sahip olduğu bir takım proteinler hakkında yeni modeller ve grafikler çıkardık.
-### Verilerin Bulunduğu Dosyaları Veren Tablo
+## SonuÃ§lar
+Leishmania Mexicana, Leishmania Infantum ve Leishmania Braziliansis parazitlerinin sahip olduÄ‘u bir takÄ±m proteinler hakkÄ±nda yeni modeller ve grafikler Ã§Ä±kardÄ±k.
+### Verilerin BulunduÄ‘u DosyalarÄ± Veren Tablo
 | Leishmania Mexicana																																						| Leishmania Infantum																																												  | Leishmania Braziliansis																																				       |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ENSP00000288071:ENSP00000288071](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Mexicana/l.mexicana1)|[ENSP00000344818:XP_001463268.1](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Infantum/ENSP00000344818XP_001463268.1) |[ENSP00000388107:ENSP00000250971](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Braziliensis/1)	   |
