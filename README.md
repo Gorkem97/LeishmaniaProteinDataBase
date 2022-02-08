@@ -1,11 +1,11 @@
 # Leishmania Proteinleri
 ## Özet
-Leishmania son derece ölümcül ve yaygýn bir hastalýktýr ve durdurulmalýdýr.Geçici
+Leishmania son derece ölümcül ve yaygýn bir hastalýktýr ve durdurulmalýdýr."Geçici"
 ## Amaç
-Leishmania parazitlerinin sahip olduðu önemli proteinlerden bir kaçýnýn yapýsýyla ilgili bir veri tabaný oluþturmak.Geçici
+Leishmania parazitlerinin sahip olduðu önemli proteinlerden bir kaçýnýn yapýsýyla ilgili bir veri tabaný oluþturmak."Geçici"
 
 ## Sonuçlar
-Leishmania Mexicana, Leishmania Infantum ve Leishmania Braziliansis parazitlerinin sahip olduðu bir takým proteinler hakkýnda yeni modeller ve grafikler çýkardýk.Geçici
+Leishmania Mexicana, Leishmania Infantum ve Leishmania Braziliansis parazitlerinin sahip olduðu bir takým proteinler hakkýnda yeni modeller ve grafikler çýkardýk."Geçici"
 ### Verilerin Bulunduðu Dosyalarý Veren Tablo
 | Leishmania Mexicana																																						| Leishmania Infantum																																												  | Leishmania Braziliansis																																				       |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
