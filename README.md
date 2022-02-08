@@ -8,10 +8,10 @@ Leishmania parazitlerinin sahip olduðu önemli proteinlerden bir kaçýnýn yapýsýyl
 ## Sonuçlar
 Leishmania Mexicana, Leishmania Infantum ve Leishmania Braziliansis parazitlerinin sahip olduðu bir takým proteinler hakkýnda yeni modeller ve grafikler çýkardýk.
 ### Bir takým tablolamalarda kullanýlabilecek format
-| Bir takým veriler | Bir takým veriler        | Bir takým veriler           |Bir takým veriler                               | Bir takým veriler                              |
-|-------------------|-----------------------------|-----------------------------|------------------------------------------------|------------------------------------------------|
-| 1                 | 1                           | 1                           | 1                                              | 1                                              |
-| 2                 | 2                           | 2                           | 299                                            | 1                                              |
+| Leishmania Mexicana | Leishmania Infantum         | Leishmania Braziliansis     |
+|-------------------  |-----------------------------|-----------------------------|
+|### [Model1](https://github.com/BiyoinformatikProje/Bulasiciligi-Arttiran-Koronavirus-SARS-CoV-2-Mutasyonlarinin-Tahmini/blob/main/Deneysel_veriseti.csv)| 1                           | 1                           |
+| 2                   | 2                           | 2                           |
 
 ## Kullandýðýmýz Dosyalar
 ### [Deneysel Veriseti](https://github.com/BiyoinformatikProje/Bulasiciligi-Arttiran-Koronavirus-SARS-CoV-2-Mutasyonlarinin-Tahmini/blob/main/Deneysel_veriseti.csv)
