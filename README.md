@@ -8,10 +8,10 @@ Leishmania parazitlerinin sahip olduðu önemli proteinlerden bir kaçýnýn yapýsýyl
 ## Sonuçlar
 Leishmania Mexicana, Leishmania Infantum ve Leishmania Braziliansis parazitlerinin sahip olduðu bir takým proteinler hakkýnda yeni modeller ve grafikler çýkardýk.
 ### Bir takým tablolamalarda kullanýlabilecek format
-| Leishmania Mexicana | Leishmania Infantum         | Leishmania Braziliansis     |
-|-------------------  |-----------------------------|-----------------------------|
-|[Model1](https://github.com/Gorkem97/LeishmaniaProteinDataBase/blob/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Braziliensis/1/ENSP00000388107ENSP00000250971_d1d84.result.zip)| 1                           | 1                           |
-| 2                   | 2                           | 2                           |
+| Leishmania Mexicana																																				  | Leishmania Infantum																																										    | Leishmania Braziliansis     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+|[ENSP00000288071:ENSP00000288071](https://github.com/Gorkem97/LeishmaniaProteinDataBase/blob/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Braziliensis/1)|[ENSP00000344818:XP_001463268.1](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Infantum/ENSP00000344818XP_001463268.1) |[ENSP00000388107:ENSP00000250971](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Braziliensis/1)|
+|[ENSP00000288071:ENSP00000388107](https://github.com/Gorkem97/LeishmaniaProteinDataBase/blob/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Braziliensis/2)|[ENSP00000344818:XP_001469004.1](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Infantum/ENSP00000344818XP_001469004.1) |[ENSP00000388107:ENSP00000344818](https://github.com/Gorkem97/LeishmaniaProteinDataBase/tree/GorkemBranch/Protein%20Chart%20and%20Images/Leishmania%20Braziliensis/2)|
 
 ## Kullandýðýmýz Dosyalar
 ### [Deneysel Veriseti](https://github.com/BiyoinformatikProje/Bulasiciligi-Arttiran-Koronavirus-SARS-CoV-2-Mutasyonlarinin-Tahmini/blob/main/Deneysel_veriseti.csv)
